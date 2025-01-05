@@ -1,6 +1,3 @@
-# Levenberg-Marquardt method伪代码
-#### 参考文献
-K. Madsen, H. B. Nielsen, O. Tingleff, Methods for Non-Linear Least Squares Problems
 
 **Algorithm 3.16. Levenberg-Marquardt method**
 
@@ -42,6 +39,9 @@ $\mu:=\mu*v; v:=2*v$
 
 $end$
 
-<img src="https://img-blog.csdnimg.cn/20200913114319765.jpg" width="90%">
+<img src="https://raw.githubusercontent.com/LesslsMore/blog-img/master/picgo/20250101105233.png" width="90%">
+
+#### 参考文献
+- K. Madsen, H. B. Nielsen, O. Tingleff, Methods for Non-Linear Least Squares Problems
 
 
